@@ -1,0 +1,15 @@
+.header_class{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.navigation{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: auto;
+    gap: 40px;
+}
+li{
+    list-style: none;
+}
